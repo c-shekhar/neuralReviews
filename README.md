@@ -1,2 +1,2 @@
-# neuralReviews
+# NeuralReviews
 Generate Neural Reviews
